@@ -1,1 +1,10 @@
 Launch school has an open bookshelf which has free books about foundation software engineering topics
+
+Books on the following topics are on the book shelf:
+
+command line
+git and github
+http
+apis 
+sql
+javascript programming
